@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Display
   def self.creating_player_text(id)
     puts "Creating player #{id}, can you give me his name?"
